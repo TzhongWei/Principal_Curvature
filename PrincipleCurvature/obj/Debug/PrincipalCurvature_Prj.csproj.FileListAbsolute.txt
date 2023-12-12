@@ -1,0 +1,6 @@
+D:\研究所\PQMesh\PrincipleCurvature\Bin\PrincipalCurvature.dll
+D:\研究所\PQMesh\PrincipleCurvature\Bin\PrincipalCurvature.pdb
+D:\研究所\PQMesh\PrincipleCurvature\PrincipleCurvature\obj\Debug\PrincipalCurvature_Prj.csproj.CoreCompileInputs.cache
+D:\研究所\PQMesh\PrincipleCurvature\PrincipleCurvature\obj\Debug\PrincipalCurvature.dll
+D:\研究所\PQMesh\PrincipleCurvature\PrincipleCurvature\obj\Debug\PrincipalCurvature.pdb
+D:\研究所\PQMesh\PrincipleCurvature\PrincipleCurvature\obj\Debug\PrincipalCurvature_Prj.csproj.AssemblyReference.cache
